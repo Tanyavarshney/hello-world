@@ -1,1 +1,6 @@
-# hello-world
+#include<stdio.h>
+void main()
+{
+ printf("\n hello guys");
+ getch();
+}
